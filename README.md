@@ -40,8 +40,6 @@ module PreserveTags = {
 
 ## Installation
 
-TODO (it isn't actually published yet)
-
 ```
 npm i @rpominov/bs-preserve-tags
 ```
