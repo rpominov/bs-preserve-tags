@@ -5,7 +5,7 @@
     "build": "bsb -make-world",
     "start": "bsb -make-world -w",
     "clean": "bsb -clean-world",
-    "test": "npm run build && node ./src/PreserveTagsTest.bs.js"
+    "test": "npm run build && node ./tests/PreserveTagsTest.bs.js"
   },
   "keywords": [
     "BuckleScript"
