@@ -1,6 +1,6 @@
 {
   "name": "@rpominov/bs-preserve-tags",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "sources": [
     "src", 
     {"dir": "tests", "type": "dev"}
